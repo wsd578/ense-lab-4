@@ -1,0 +1,13 @@
+This is a checkpoint for the lab project at the end of Lab 3.
+
+Reminder that this iteration of the lab project does not follow best practices, 
+so use caution if adapting this into a production environment.
+
+To run:
+1. Be sure that node.js is installed
+2. Install required packages using
+npm i
+3. Run the server using 
+nodemon --ignore "*.json"
+4. Access the application by opening your browser, and navigating to:
+http://localhost:3000
